@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there! 👋 I'm [Your Name]
 
-<!--
-**QuestModsDev/QuestModsDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub page! I'm a passionate software developer with experience in **C#** and currently expanding my skills in **Python** and **C++**. Here's a little more about me:
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+- **Languages:** C#, Python (in progress), C++ (in progress)
+- **Tools:** Visual Studio, Git, GitHub, Unity
+- **Areas of interest:** Game Development, Web Development, Algorithms, and Modding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Mastering the intricacies of **Python** and diving deep into **C++**.
+- Building projects that combine **C#** with Python and C++ for enhanced productivity.
+
+## 🔭 Projects & Goals
+- Currently working on **WORKING Quest mods** for the game **Gorilla Tag**
+- Exploring new projects in game development and automation tools.
+
+Thanks for visiting my profile! 🚀
